@@ -24,6 +24,7 @@
 		3E8B32E72A6F3D48005FAC71 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3E8B32EA2A6F3D48005FAC71 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3E8B32EC2A6F3D48005FAC71 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3E8B32F22A6F53E7005FAC71 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +57,7 @@
 		3E8B32DD2A6F3D47005FAC71 /* Code Path Prework */ = {
 			isa = PBXGroup;
 			children = (
+				3E8B32F22A6F53E7005FAC71 /* README.md */,
 				3E8B32DE2A6F3D47005FAC71 /* AppDelegate.swift */,
 				3E8B32E02A6F3D47005FAC71 /* SceneDelegate.swift */,
 				3E8B32E22A6F3D47005FAC71 /* ViewController.swift */,
