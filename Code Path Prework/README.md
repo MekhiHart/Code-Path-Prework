@@ -41,14 +41,13 @@ The following **required** functionality is completed:
     - Sorts food list based on some score. It renders food starting from the top based on likeness, taste, or some condition (e.g american, japanese, mexican, etc.)
     - Allows user to take a pic of cooked food to give sense of nostalgia, and incentivize to cook that food again if the user wants to cook it again in the future
 
-## Notes
+## Challenges
 
-Describe any challenges encountered while building the app.
 I had to the user experience of XCode since there is so much to click on. I most likely lost a significant amount of time manually rebuilding the app for changes that I made in the code which was frustrating not being able to have a hot reload on the app. Another thing is trying to figure out how outlets work; specifically creating an collection of outlets. When I tried to make the labels into a collection, it would always initialize the collection with only 1 element. Figuring that out took some time too. Finally, learning Swift was a bit quirky. TypeScript is my main programming language and I had to refrain using the keyword const to declare a variable instead of let. 
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2023] [Mekhi Hart Dela Cruz]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
