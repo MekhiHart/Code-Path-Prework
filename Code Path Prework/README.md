@@ -36,10 +36,10 @@ The following **required** functionality is completed:
 - Context: I love cooking different kinds of food. But it's hard to keep track of the food that I have cooked previously and get its recipe if I want to cook it again in the future. Therefore I want a repository of the food that I cooked before which can be used as reference if I want to cook the particular food again. 
 
 - Problem it solves & Features: 
---> Saves time of searching for a new recipe if I want to previously cooked food
---> Gives templates of a particular food that I want to cook in case I don't have any ideas
---> Sorts food list based on some score. It renders food starting from the top based on likeness, taste, or some condition (e.g american, japanese, mexican, etc.)
---> Allows user to take a pic of cooked food to give sense of nostalgia, and incentivize to cook that food again if the user wants to cook it again in the future
+    - Saves time of searching for a new recipe if I want to previously cooked food
+    - Gives templates of a particular food that I want to cook in case I don't have any ideas
+    - Sorts food list based on some score. It renders food starting from the top based on likeness, taste, or some condition (e.g american, japanese, mexican, etc.)
+    - Allows user to take a pic of cooked food to give sense of nostalgia, and incentivize to cook that food again if the user wants to cook it again in the future
 
 ## Notes
 
