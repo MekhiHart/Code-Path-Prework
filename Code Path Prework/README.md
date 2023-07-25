@@ -4,7 +4,7 @@ Submitted by: **Mekhi Hart Dela Cruz**
 
 **CodePath prework** is an app that... [TODO] 
 - Introduces my education and professional background
-- 
+
 
 Time spent: **3 hours and 23 minutes** spent in total
 
